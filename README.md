@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+[![Build Status](https://travis-ci.org/tarang9211/ReactTests.svg?branch=master)](https://travis-ci.org/tarang9211/ReactTests)
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
