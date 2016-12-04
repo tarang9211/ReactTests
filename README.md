@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -27,4 +26,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 =======
 # ReactTests
 TDD based approach for a React project.
->>>>>>> 8b5c678f98e003da81a650c94a39de0d64bef6b8
